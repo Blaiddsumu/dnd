@@ -10,7 +10,7 @@ git pull
 cd $root
 
 date=$(date +%y-%m-%d.%H.%M.%S)
-mv stage $date
+mv _site $date
 rm -rf live
 ln -s $date live
 
