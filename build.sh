@@ -7,10 +7,10 @@ git clean -xdf
 git pull
 ~bjg/git/docker-jekyll/dc-jekyll /app/build-inner.sh
 
+mv _site $root/$date
 cd $root
 
 date=$(date +%y-%m-%d.%H.%M.%S)
-mv _site $date
 rm -rf live
 ln -s $date live
 
