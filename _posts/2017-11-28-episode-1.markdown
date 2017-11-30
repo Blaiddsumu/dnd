@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Episode One"
+date:   2017-11-22 16:03:45 -0700
+categories: epsode
+---
+Without further ado, here's episode one! now, I can't figure out how to make audio play directly off of a post, so you'll have to listen to it in a separate tab, but I'm lookin' to figure that out.
+
+Episode one -- where three teenagers decided to record a game of their own brand of D&D ("cleverly" nicknamed Driving Nowhere Deadly), because why the hECK not
+
+Welcome, to a world of testing out a new system and then completely forgetting we were doing that, where tragic backstories are outlawed and technology is kind of a thing apparently
+
+[Episode 1 Gameplay](/episode-1-gameplay.mp3)
+
+[Episode 1 Outtakes](/episode-1-outtakes.mp3)
