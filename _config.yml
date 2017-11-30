@@ -18,7 +18,7 @@ email:
 description: Welcome to Driving Nowhere Deadly, where some teenagers try and make a podcast
 description: Welcome to Driving Nowhere Deadly, where some teenagers try and make a podcast
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dnd.cold.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
