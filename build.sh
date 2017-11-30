@@ -5,7 +5,7 @@ root=/app/web/dnd.cold.org
 cd $root/repo
 git clean -xdf
 git pull
-/home/svc-user/bin/jekyll build
+~bjg/git/docker-jekyll/dc-jekyll /app/build-inner.sh
 
 cd $root
 
