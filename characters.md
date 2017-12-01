@@ -10,4 +10,12 @@ Our wonderful adorable lil mascot is Dicon, he's got nuthin to do with any story
 
 ![Dicon](https://dnd.cold.org/dicon.png)
 
+Now, for our main trio of characters: Paz, Fitz, and Candoran.
+
+To Paz, commonly known as Paz,
+
+Fitz,
+
+Candoran,
+
 ---
