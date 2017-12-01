@@ -122,7 +122,9 @@ a {
 
   &:hover {
     color: #e56100;
-
+    border: 5px;
+    border-radius: 5px;
+    border-color: darker($orange, 10%):
   }
 
   .social-media-list &:hover {
