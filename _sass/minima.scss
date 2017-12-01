@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Arial, sans-serif !default;
+$base-font-family: 'Roboto', Arial, sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -19,7 +19,8 @@ $grey-color-light: #464646 !default;
 $grey-color-dark:  #333333 !default;
 
 @import url('https://fonts.googleapis.com/css?family=Poiret+One');
-@import url('http://allfont.net/allfont.css?fonts=yukarimobile');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
 
 // Width of the content area
 $content-width:    800px !default;
