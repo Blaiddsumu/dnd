@@ -12,8 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  font-weight: lighter;
+  font: lighter #{$base-font-size}/#{$base-line-height} "Roboto", $base-font-family;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -114,12 +113,12 @@ h5 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: lighten($brand-color, 10%);
   text-decoration: none;
 
 
   &:visited {
-    color: lighten($brand-color, 15%);
+    color: lighten($brand-color, 20%);
   }
 
   &:hover {
