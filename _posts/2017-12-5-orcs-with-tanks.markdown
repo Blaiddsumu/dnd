@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Orcs with Tanks"
+date:   2017-12-5 18:38:45 -0700
+categories: episode
+---
+Welcome to [cue dramatic music] EPISODE TWO!!! where we eventually gave up pretending like we were "testing" a new game and just messed around. Paz found a special somebody~, and a character I was actually willing to voice act appeared.
+
+[Episode Two Gameplay](/audios/)
+
+[Epsidode Two Outtakes](/audios/)
