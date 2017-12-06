@@ -4,7 +4,7 @@ title:  "Episode One"
 date:   2017-11-22 16:03:45 -0700
 categories: episode
 ---
-Without further ado, here's episode one! now, I can't figure out how to make audio play directly off of a post, so you'll have to listen to it in a separate tab, but I'm lookin' to figure that out.
+Without further ado, here's episode one! now, I can't figure out how to make audio play directly off of a post, so you'll have to listen to it in a separate tab, but I'm looking to figure that out.
 
 Episode one -- where three teenagers decided to record a game of their own brand of D&D ("cleverly" nicknamed Driving Nowhere Deadly), because why the hECK not
 
