@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to Driving Nowhere Deadly! This is a podcast where a couple teenagers try and figure out a simple roleplaying game, and it got way out of hand.
+Welcome to Driving Nowhere Deadly! This is a podcast where some teenagers try and figure out a simple roleplaying game, and it got way out of hand.
 
 The main voices of this podcast are Fae, Chelsey, Thomas, and Spencer (who showed up later…).
 
