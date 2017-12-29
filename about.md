@@ -14,6 +14,6 @@ A HUGE thanks to Richard (NOT the cat, although we do love the cat), who helped 
 
 anyways, we hope you enjoy this weird podcast!
 
-(We've also got a Discord server -- more info [here](https://dnd.cold.org/discord/))
+(We've also got a Discord server -- more info [here](/discord/))
 
 ---
