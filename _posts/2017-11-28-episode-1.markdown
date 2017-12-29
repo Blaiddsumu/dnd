@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode One"
+title:  "Episode 1"
 date:   2017-11-22 16:03:45 -0700
 categories: episode
 ---
