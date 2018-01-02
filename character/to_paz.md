@@ -15,3 +15,5 @@ He is a rogue, despite the fact he's like, seven feet tall. He hasn't found much
 His best friend/favorite pet/party member is Richard, a giant cat he found in the first episode. The cat was not giant when our heroes first found him, but he is giant now.
 
 <img src="/img/pazandrichard.png" alt="Paz and Richard">
+
+---
