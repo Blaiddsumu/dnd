@@ -1,7 +1,7 @@
 ---
-layout: character
+layout: page
 title: To Paz
-permalink: /characters/to_paz
+permalink: /to_paz
 ---
 <img src="/img/paz.png" alt="To Paz" align="left">
 
