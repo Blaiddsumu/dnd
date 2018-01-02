@@ -12,7 +12,7 @@ Our wonderful adorable lil mascot is Dicon, he's got nuthin to do with any story
 
 Now, for our main trio of characters: Paz, Fitz, and Candoran.
 
-[To Paz](/character/to_paz), commonly known as Paz and our resident green dragonborn, is the only son in a family of 32. He has 29 sisters.
+[To Paz](/to_paz), commonly known as Paz and our resident green dragonborn, is the only son in a family of 32. He has 29 sisters.
 
 Fitz, twin cousin to Paz, she is a blue dragonborn who has a penchant for zapping others...
 
