@@ -1,6 +1,6 @@
 ---
 layout: character
 title: To Paz
-permalink: /characters/to_paz
+permalink: /character/to_paz
 ---
 ![To Paz](/img/paz.png)
