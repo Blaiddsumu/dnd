@@ -1,7 +1,7 @@
 ---
 layout: character
 title: To Paz
-permalink: /to_paz
+permalink: /character/to_paz
 ---
 <img src="/img/paz.png" alt="To Paz" align="left">
 
@@ -13,4 +13,4 @@ He is a rogue, despite the fact he's like seven feet tall. He hasn't found much 
 
 His best friend/favorite pet/party member is Richard, a giant cat he found in the first episode. The cat was not giant when our heroes first found him, but he is giant now.
 
-![Paz and Richard](/img/pazandrichard.png)
+<img src="/img/pazandrichard.png" alt="Paz and Richard">
