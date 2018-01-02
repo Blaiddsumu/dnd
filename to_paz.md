@@ -1,7 +1,7 @@
 ---
 layout: character
 title: To Paz
-permalink: https://dnd.cold.org/character/to_paz
+permalink: /to_paz
 ---
 ![To Paz](/img/paz.png)
 
