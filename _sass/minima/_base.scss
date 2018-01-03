@@ -123,18 +123,6 @@ h5 {
   font-weight: 200;
 }
 
-h1, h2, h3, h4, h5, h6 > a {
-  color: $text-color;
-
-  &:visited {
-    color: lighten($orange, 20%);
-  }
-  
-  &:hover {
-    color: $orange;
-  }
-
-}
 
 /**
  * Links
@@ -168,7 +156,60 @@ a {
   }
 }
 
-
+h6 > a {
+  color: $text-color;
+  &:visited {
+    color: lighten($orange, 20%);
+  }
+  &:hover {
+    color: $orange;
+  }
+}
+h5 > a {
+  color: $text-color;
+  &:visited {
+    color: lighten($orange, 20%);
+  }
+  &:hover {
+    color: $orange;
+  }
+}
+h4 > a {
+  color: $text-color;
+  &:visited {
+    color: lighten($orange, 20%);
+  }
+  &:hover {
+    color: $orange;
+  }
+}
+h3 > a {
+  color: $text-color;
+  &:visited {
+    color: lighten($orange, 20%);
+  }
+  &:hover {
+    color: $orange;
+  }
+}
+h2 > a {
+  color: $text-color;
+  &:visited {
+    color: lighten($orange, 20%);
+  }
+  &:hover {
+    color: $orange;
+  }
+}
+h1 > a {
+  color: $text-color;
+  &:visited {
+    color: lighten($orange, 20%);
+  }
+  &:hover {
+    color: $orange;
+  }
+}
 /**
  * Blockquotes
  */
