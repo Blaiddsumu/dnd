@@ -157,57 +157,57 @@ a {
 }
 
 h6 a {
-  color: $text-color;
+  color: $text-color !important;
   &:visited {
-    color: lighten($orange, 20%);
+    color: lighten($orange, 20%) !important;
   }
   &:hover {
-    color: $orange;
+    color: $orange !important;
   }
 }
 h5 a {
-  color: $text-color;
+  color: $text-color !important;
   &:visited {
-    color: lighten($orange, 20%);
+    color: lighten($orange, 20%) !important;
   }
   &:hover {
-    color: $orange;
+    color: $orange !important;
   }
 }
 h4 a {
-  color: $text-color;
+  color: $text-color !important;
   &:visited {
-    color: lighten($orange, 20%);
+    color: lighten($orange, 20%) !important;
   }
   &:hover {
-    color: $orange;
+    color: $orange !important;
   }
 }
 h3 a {
-  color: $text-color;
+  color: $text-color !important;
   &:visited {
-    color: lighten($orange, 20%);
+    color: lighten($orange, 20%) !important;
   }
   &:hover {
-    color: $orange;
+    color: $orange !important;
   }
 }
 h2 a {
-  color: $text-color;
+  color: $text-color !important;
   &:visited {
-    color: lighten($orange, 20%);
+    color: lighten($orange, 20%) !important;
   }
   &:hover {
-    color: $orange;
+    color: $orange !important;
   }
 }
 h1 a {
-  color: $text-color;
+  color: $text-color !important;
   &:visited {
-    color: lighten($orange, 20%);
+    color: lighten($orange, 20%) !important;
   }
   &:hover {
-    color: $orange;
+    color: $orange !important;
   }
 }
 /**
