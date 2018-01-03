@@ -133,6 +133,9 @@ p a {
   border-radius: 5px;
   border-width: 5px;
   background: #262626;
+  padding-left: 2px;
+  padding-right: 2px;
+
 
 
   &:visited {
@@ -144,6 +147,8 @@ p a {
     border-radius: 5px;
     border-width: 5px;
     background: $orange;
+    padding-left: 2px;
+    padding-right: 2px;
     // background: #222222;
     // border-width: 5px;
     // border-style: solid;
