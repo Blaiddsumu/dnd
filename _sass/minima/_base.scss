@@ -127,64 +127,44 @@ h5 {
 /**
  * Links
  */
-p a {
-  color: $orange;
-  text-decoration: none;
-  border-radius: 3px;
-  border-width: 5px;
-  background: #262626;
-  margin-left: 2px;
-  margin-right: 2px;
+ // a {
+ //  color: $orange;
+ //  text-decoration: none;
+ //  border-radius: 3px;
+ //  border-width: 5px;
+ //  background: #262626;
+ //  margin-left: 2px;
+ //  margin-right: 2px;
+ //
+ //
+ //
+ //  &:visited {
+ //    color: lighten($text-color, 20%);
+ //  }
+ //
+ //  &:hover {
+ //    color: #262626;
+ //    border-radius: 3px;
+ //    border-width: 5px;
+ //    background: $orange;
+ //    margin-left: 2px;
+ //    margin-right: 2px;
+ // }
+
+  a {
+    color: lighten($text-color, 10%);
+    text-decoration: none;
 
 
+    &:visited {
+      color: lighten($text-color, 20%);
+    }
 
-  &:visited {
-    color: lighten($text-color, 20%);
-  }
-
-  &:hover {
-    color: #262626;
-    border-radius: 3px;
-    border-width: 5px;
-    background: $orange;
-    margin-left: 2px;
-    margin-right: 2px;
-    // background: #222222;
-    // border-width: 5px;
-    // border-style: solid;
-    // border-radius: 5px;
-    // border-color: #222222;
-    // padding: 3px;
-    // display: inline;
-  }
-
-//   a {
-//     color: lighten($text-color, 10%);
-//     text-decoration: none;
-//
-//
-//     &:visited {
-//       color: lighten($text-color, 20%);
-//     }
-//
-//     &:hover {
-//       color: $orange;
-//     }
-// }
-
-h2 a {
-  color: lighten($text-color, 10%) !important;
-  text-decoration: none;
-
-
-  &:visited {
-    color: lighten($text-color, 20%)!important;
-  }
-
-  &:hover {
-    color: $orange !important;
-  }
+    &:hover {
+      color: $orange;
+    }
 }
+
 
   .social-media-list &:hover {
     text-decoration: none;
