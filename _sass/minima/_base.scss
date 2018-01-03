@@ -127,9 +127,12 @@ h5 {
 /**
  * Links
  */
-a {
-  color: lighten($text-color, 30%);
+p a {
+  color: $orange;
   text-decoration: none;
+  border-radius: 5px;
+  border-width: 5px;
+  background: #262626;
 
 
   &:visited {
@@ -137,7 +140,10 @@ a {
   }
 
   &:hover {
-    color: $orange;
+    color: #262626;
+    border-radius: 5px;
+    border-width: 5px;
+    background: $orange;
     // background: #222222;
     // border-width: 5px;
     // border-style: solid;
