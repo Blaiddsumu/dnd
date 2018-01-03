@@ -127,16 +127,16 @@ h5 {
  * Links
  */
 a {
-  color: lighten($brand-color, 10%);
+  color: $orange;
   text-decoration: none;
 
 
   &:visited {
-    color: lighten($brand-color, 20%);
+    color: lighten($orange, 20%);
   }
 
   &:hover {
-    color: $orange;
+    color: darken($orange, 20%);
     // background: #222222;
     // border-width: 5px;
     // border-style: solid;
