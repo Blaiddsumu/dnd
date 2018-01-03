@@ -130,7 +130,7 @@ h5 {
 p a {
   color: $orange;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 3px;
   border-width: 5px;
   background: #262626;
   padding-left: 2px;
@@ -144,7 +144,7 @@ p a {
 
   &:hover {
     color: #262626;
-    border-radius: 5px;
+    border-radius: 3px;
     border-width: 5px;
     background: $orange;
     padding-left: 2px;
@@ -157,6 +157,21 @@ p a {
     // padding: 3px;
     // display: inline;
   }
+
+  a {
+    color: lighten($text-color, 10%);
+    text-decoration: none;
+
+
+    &:visited {
+      color: lighten($text-color, 20%);
+    }
+
+    &:hover {
+      color: $orange;
+
+    }
+}
 
   .social-media-list &:hover {
     text-decoration: none;
