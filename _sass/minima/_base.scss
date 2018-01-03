@@ -253,7 +253,7 @@ a {
 // }
 
 h5 a {
-  color: $text-color;
+  color: lighten($text-color, 30%);
   text-decoration: none;
 
 
