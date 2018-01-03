@@ -19,6 +19,6 @@ Our wonderful adorable lil mascot is Dicon, he's got nuthin to do with any story
 [Fitz](/characters/fitz), twin cousin to Paz, is a blue dragonborn who has a penchant for zapping others. Spencer took over playing her after a few episodes.
 
 ![Candoran](/img/candoran.png)
-Candoran, the buffest of them all, was literally banned from his home village because he was too buff. that's it, no ulterior reason, he was just... too buff.
+[Candoran](/characters/candoran), the buffest of them all, was literally banned from his home village because he was too buff. that's it, no ulterior reason, he was just... too buff.
 
 ---
