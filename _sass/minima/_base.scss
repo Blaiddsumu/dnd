@@ -252,8 +252,19 @@ a {
 //   }
 // }
 
+h5 a {
+  color: $text-color;
+  text-decoration: none;
 
 
+  &:visited {
+    color: lighten($text-color, 20%);
+  }
+
+  &:hover {
+    color: $orange;
+  }
+}
 /**
  * Wrapper
  */
