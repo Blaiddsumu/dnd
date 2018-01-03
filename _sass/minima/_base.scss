@@ -122,16 +122,6 @@ h5 {
   text-transform: uppercase;
   font-weight: 200;
 }
-h5 a {
-  font-size: 3em;
-  font-family: 'Orbitron'!important;
-  text-transform: uppercase;
-  font-weight: 200;
-  color: lighten($default, 10%);
-
-  &:visited {
-    color: lighten($default, 20%);
-}
 
 /**
  * Links
