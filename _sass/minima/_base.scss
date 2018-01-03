@@ -353,7 +353,17 @@ h5 a {
 
 /* Sidebar links */
 .sidebar a {
-  color: $brand-color;
+  color: $text-color;
+  text-decoration: none;
+
+  &:visited {
+    color: lighten($text-color, 20%);
+  }
+
+  &:hover {
+    color: $orange;
+  }
+
 }
 
 /* Sidebar nav */
