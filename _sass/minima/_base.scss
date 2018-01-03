@@ -169,8 +169,21 @@ p a {
 
     &:hover {
       color: $orange;
-
     }
+}
+
+h2 a {
+  color: lighten($text-color, 10%);
+  text-decoration: none;
+
+
+  &:visited {
+    color: lighten($text-color, 20%);
+  }
+
+  &:hover {
+    color: $orange;
+  }
 }
 
   .social-media-list &:hover {
