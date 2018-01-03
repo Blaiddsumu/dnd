@@ -173,16 +173,16 @@ p a {
 }
 
 h2 a {
-  color: lighten($text-color, 10%);
+  color: lighten($text-color, 10%) !important;
   text-decoration: none;
 
 
   &:visited {
-    color: lighten($text-color, 20%);
+    color: lighten($text-color, 20%)!important;
   }
 
   &:hover {
-    color: $orange;
+    color: $orange !important;
   }
 }
 
