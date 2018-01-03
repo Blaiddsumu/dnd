@@ -1,7 +1,6 @@
 ---
 layout: character
 title: To Paz
-permalink: /characters/to_paz
 ---
 
 <img src="/img/paz.png" alt="To Paz" align="left">
