@@ -156,7 +156,7 @@ a {
   }
 }
 
-h6 > a {
+h6 a {
   color: $text-color;
   &:visited {
     color: lighten($orange, 20%);
@@ -165,7 +165,7 @@ h6 > a {
     color: $orange;
   }
 }
-h5 > a {
+h5 a {
   color: $text-color;
   &:visited {
     color: lighten($orange, 20%);
@@ -174,7 +174,7 @@ h5 > a {
     color: $orange;
   }
 }
-h4 > a {
+h4 a {
   color: $text-color;
   &:visited {
     color: lighten($orange, 20%);
@@ -183,7 +183,7 @@ h4 > a {
     color: $orange;
   }
 }
-h3 > a {
+h3 a {
   color: $text-color;
   &:visited {
     color: lighten($orange, 20%);
@@ -192,7 +192,7 @@ h3 > a {
     color: $orange;
   }
 }
-h2 > a {
+h2 a {
   color: $text-color;
   &:visited {
     color: lighten($orange, 20%);
@@ -201,7 +201,7 @@ h2 > a {
     color: $orange;
   }
 }
-h1 > a {
+h1 a {
   color: $text-color;
   &:visited {
     color: lighten($orange, 20%);
