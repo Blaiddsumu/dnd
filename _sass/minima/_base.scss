@@ -127,57 +127,25 @@ h5 {
 /**
  * Links
  */
- // a {
- //  color: $orange;
- //  text-decoration: none;
- //  border-radius: 3px;
- //  border-width: 5px;
- //  background: #262626;
- //  margin-left: 2px;
- //  margin-right: 2px;
- //
- //
- //
- //  &:visited {
- //    color: lighten($text-color, 20%);
- //  }
- //
- //  &:hover {
- //    color: #262626;
- //    border-radius: 3px;
- //    border-width: 5px;
- //    background: $orange;
- //    margin-left: 2px;
- //    margin-right: 2px;
- // }
-
-//   a {
-//     color: lighten($text-color, 10%);
-//     text-decoration: none;
-//
-//
-//     &:visited {
-//       color: lighten($text-color, 20%);
-//     }
-//
-//     &:hover {
-//       color: $orange;
-//     }
-// }
-
- a {
-  color: lighten($text-color, 10%) !important;
+a {
+  color: lighten($text-color, 30%);
   text-decoration: none;
 
 
   &:visited {
-    color: lighten($text-color, 20%)!important;
+    color: lighten($text-color, 20%);
   }
 
   &:hover {
-    color: $orange !important;
+    color: $orange;
+    // background: #222222;
+    // border-width: 5px;
+    // border-style: solid;
+    // border-radius: 5px;
+    // border-color: #222222;
+    // padding: 3px;
+    // display: inline;
   }
-}
 
   .social-media-list &:hover {
     text-decoration: none;
@@ -188,8 +156,104 @@ h5 {
   }
 }
 
+// h6 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h5 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h4 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h3 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h2 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h1 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// /**
+//  * Blockquotes
+//  */
+// blockquote {
+//   color: $grey-color;
+//   border-left: 4px solid $grey-color-light;
+//   padding-left: $spacing-unit / 2;
+//   @include relative-font-size(1.125);
+//   letter-spacing: -1px;
+//   font-style: italic;
+//
+//   > :last-child {
+//     margin-bottom: 0;
+//   }
+// }
+//
+//
+//
+// /**
+//  * Code formatting
+//  */
+// pre,
+// code {
+//   @include relative-font-size(0.9375);
+//   background-color: #686868;
+// }
+//
+// code {
+//   padding: 1px 5px;
+// }
+//
+// pre {
+//   padding: 8px 12px;
+//   overflow-x: auto;
+//
+//   > code {
+//     border: 0;
+//     padding-right: 0;
+//     padding-left: 0;
+//   }
+// }
+
 h5 a {
-  color: lighten($text-color, 30%);
+  color: $text-color;
   text-decoration: none;
 
 
