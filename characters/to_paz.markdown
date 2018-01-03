@@ -3,7 +3,7 @@ layout: character
 title: To Paz
 permalink: /characters/to-paz/
 ---
-<img src="/img/topazglitter.gif">
+<img src="/img/topazglitter.gif" align="center">
 <img src="/img/paz.png" alt="To Paz">
 
 To Paz goes by his last name, Paz, and is the only son in a family of 32. He is the twin cousin to Fitz, as in their mothers are twins. He has 29 sisters, all of which have varying levels of annoying-ness.
