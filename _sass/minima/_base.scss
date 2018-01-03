@@ -151,20 +151,33 @@ h5 {
  //    margin-right: 2px;
  // }
 
-  a {
-    color: lighten($text-color, 10%);
-    text-decoration: none;
+//   a {
+//     color: lighten($text-color, 10%);
+//     text-decoration: none;
+//
+//
+//     &:visited {
+//       color: lighten($text-color, 20%);
+//     }
+//
+//     &:hover {
+//       color: $orange;
+//     }
+// }
+
+ a {
+  color: lighten($text-color, 10%) !important;
+  text-decoration: none;
 
 
-    &:visited {
-      color: lighten($text-color, 20%);
-    }
+  &:visited {
+    color: lighten($text-color, 20%)!important;
+  }
 
-    &:hover {
-      color: $orange;
-    }
+  &:hover {
+    color: $orange !important;
+  }
 }
-
 
   .social-media-list &:hover {
     text-decoration: none;
