@@ -128,16 +128,16 @@ h5 {
  * Links
  */
 a {
-  color: $orange;
+  color: $text-color;
   text-decoration: none;
 
 
   &:visited {
-    color: lighten($orange, 20%);
+    color: lighten($text-color, 20%);
   }
 
   &:hover {
-    color: darken($orange, 10%);
+    color: $orange;
     // background: #222222;
     // border-width: 5px;
     // border-style: solid;
@@ -156,101 +156,101 @@ a {
   }
 }
 
-h6 a {
-  color: $text-color !important;
-  &:visited {
-    color: lighten($orange, 20%) !important;
-  }
-  &:hover {
-    color: $orange !important;
-  }
-}
-h5 a {
-  color: $text-color !important;
-  &:visited {
-    color: lighten($orange, 20%) !important;
-  }
-  &:hover {
-    color: $orange !important;
-  }
-}
-h4 a {
-  color: $text-color !important;
-  &:visited {
-    color: lighten($orange, 20%) !important;
-  }
-  &:hover {
-    color: $orange !important;
-  }
-}
-h3 a {
-  color: $text-color !important;
-  &:visited {
-    color: lighten($orange, 20%) !important;
-  }
-  &:hover {
-    color: $orange !important;
-  }
-}
-h2 a {
-  color: $text-color !important;
-  &:visited {
-    color: lighten($orange, 20%) !important;
-  }
-  &:hover {
-    color: $orange !important;
-  }
-}
-h1 a {
-  color: $text-color !important;
-  &:visited {
-    color: lighten($orange, 20%) !important;
-  }
-  &:hover {
-    color: $orange !important;
-  }
-}
-/**
- * Blockquotes
- */
-blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
-
-  > :last-child {
-    margin-bottom: 0;
-  }
-}
-
-
-
-/**
- * Code formatting
- */
-pre,
-code {
-  @include relative-font-size(0.9375);
-  background-color: #686868;
-}
-
-code {
-  padding: 1px 5px;
-}
-
-pre {
-  padding: 8px 12px;
-  overflow-x: auto;
-
-  > code {
-    border: 0;
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
+// h6 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h5 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h4 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h3 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h2 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// h1 a {
+//   color: $text-color !important;
+//   &:visited {
+//     color: lighten($orange, 20%) !important;
+//   }
+//   &:hover {
+//     color: $orange !important;
+//   }
+// }
+// /**
+//  * Blockquotes
+//  */
+// blockquote {
+//   color: $grey-color;
+//   border-left: 4px solid $grey-color-light;
+//   padding-left: $spacing-unit / 2;
+//   @include relative-font-size(1.125);
+//   letter-spacing: -1px;
+//   font-style: italic;
+//
+//   > :last-child {
+//     margin-bottom: 0;
+//   }
+// }
+//
+//
+//
+// /**
+//  * Code formatting
+//  */
+// pre,
+// code {
+//   @include relative-font-size(0.9375);
+//   background-color: #686868;
+// }
+//
+// code {
+//   padding: 1px 5px;
+// }
+//
+// pre {
+//   padding: 8px 12px;
+//   overflow-x: auto;
+//
+//   > code {
+//     border: 0;
+//     padding-right: 0;
+//     padding-left: 0;
+//   }
+// }
 
 
 
