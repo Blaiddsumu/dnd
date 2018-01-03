@@ -128,7 +128,7 @@ h5 {
  * Links
  */
 a {
-  color: $text-color;
+  color: lighten($text-color, 30%);
   text-decoration: none;
 
 
