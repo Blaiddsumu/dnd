@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Epiosde 2: Orcs with Tanks"
+title:  "Episode 2: Orcs with Tanks"
 date:   2017-12-05 18:38:45 -0700
 categories: episode
 ---

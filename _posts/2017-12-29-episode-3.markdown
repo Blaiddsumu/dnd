@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Epiosde 3: Order of Le Cronch"
+title:  "Episode 3: Order of Le Cronch"
 date:   2017-12-29 10:03:45 -0700
 categories: episode
 ---
