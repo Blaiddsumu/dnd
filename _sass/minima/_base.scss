@@ -127,7 +127,7 @@ h5 {
 /**
  * Links
  */
-a {
+p a {
   color: $orange;
   text-decoration: none;
   border-radius: 3px;
@@ -171,20 +171,20 @@ a {
 //       color: $orange;
 //     }
 // }
-//
-// h2 a {
-//   color: lighten($text-color, 10%) !important;
-//   text-decoration: none;
-//
-//
-//   &:visited {
-//     color: lighten($text-color, 20%)!important;
-//   }
-//
-//   &:hover {
-//     color: $orange !important;
-//   }
-// }
+
+h2 a {
+  color: lighten($text-color, 10%) !important;
+  text-decoration: none;
+
+
+  &:visited {
+    color: lighten($text-color, 20%)!important;
+  }
+
+  &:hover {
+    color: $orange !important;
+  }
+}
 
   .social-media-list &:hover {
     text-decoration: none;
