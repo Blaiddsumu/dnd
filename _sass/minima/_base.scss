@@ -353,34 +353,15 @@ h5 a {
 
 /* Sidebar links */
 .sidebar a {
-  color: $orange;
+  color: $text-color;
   text-decoration: none;
-  background-color: #2B2B2B;
-  border-radius: 3px;
-  padding: 3px;
-  border-color: #404040;
-  border-width: 1px;
 
   &:visited {
-    color: lighten($orange, 20%);
-    text-decoration: none;
-    background-color: lighten(#2B2B2B, 20%);
-    border-radius: 3px;
-    padding: 3px;
-    border-color: lighten(#404040, 20%);
-    border-width: 1px;
-
+    color: lighten($text-color, 20%);
   }
 
   &:hover {
-    color: #2B2B2B;
-    text-decoration: none;
-    background-color: $orange;
-    border-radius: 3px;
-    padding: 3px;
-    border-color: #191919;
-    border-width: 1px;
-
+    color: $orange;
   }
 
 }
