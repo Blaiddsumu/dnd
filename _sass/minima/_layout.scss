@@ -198,9 +198,7 @@
   position: relative;
   margin: 15px;
   border-radius: 5px;
-
 }
-
 
 @media (min-width: 48em) {
   .page-content {
@@ -313,9 +311,11 @@
   @include relative-font-size(1.5);
 }
 
+
 /**
  * Posts
  */
+ 
 .post-header {
   margin-bottom: $spacing-unit;
   font-family: 'Poiret One';
