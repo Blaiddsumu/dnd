@@ -206,8 +206,8 @@
   .page-content {
     margin-left: 1rem;
     margin-right: 1rem;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
     border-color: $orange;
     border-width: 5px;
   }
