@@ -332,7 +332,7 @@ h5 a {
   padding: 2rem 1rem;
   font-family: 'Poiret One';
   background-color: #222222;
-  background-image: url("/img/tiles.jpg");
+  background-image: url("/img/tiles.jpg"), .5;
 
   &:visited {
     color: $brand-color;
