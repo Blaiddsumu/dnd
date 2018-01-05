@@ -202,6 +202,13 @@
   padding-bottom: 4rem;
 }
 
+@media (min-width: $on-palm){
+  .page-content {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
 @media (min-width: 48em) {
   .page-content {
     max-width: 38rem;
