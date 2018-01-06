@@ -344,7 +344,7 @@
 
   @include media-query($on-palm) {
     padding: 5px;
-}
+ }
 
   h2 {
     @include relative-font-size(2);
