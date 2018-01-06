@@ -198,11 +198,14 @@
   position: relative;
   margin: 15px;
   border-radius: 5px;
+
+  @include media-query($on-palm) {
+ padding-left: 1rem;
+ }
+ 
 }
 
- @include media-query($on-palm) {
-padding-left: 1rem;
-}
+
 
 @media (min-width: 48em) {
   .page-content {
