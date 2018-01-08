@@ -29,7 +29,8 @@ body {
           -webkit-text-size-adjust: 100%;
             -ms-text-size-adjust: 100%;
       font-kerning: normal;
-
+  margin-left:  auto;
+  margin-right: auto;
 
 }
 
@@ -137,14 +138,7 @@ a {
 
   &:hover {
     color: $orange;
-    // background: #222222;
-    // border-width: 5px;
-    // border-style: solid;
-    // border-radius: 5px;
-    // border-color: #222222;
-    // padding: 3px;
-    // display: inline;
-  }
+}
 
   .social-media-list &:hover {
     text-decoration: none;
@@ -155,60 +149,6 @@ a {
   }
 }
 
-// h6 a {
-//   color: $text-color !important;
-//   &:visited {
-//     color: lighten($orange, 20%) !important;
-//   }
-//   &:hover {
-//     color: $orange !important;
-//   }
-// }
-// h5 a {
-//   color: $text-color !important;
-//   &:visited {
-//     color: lighten($orange, 20%) !important;
-//   }
-//   &:hover {
-//     color: $orange !important;
-//   }
-// }
-// h4 a {
-//   color: $text-color !important;
-//   &:visited {
-//     color: lighten($orange, 20%) !important;
-//   }
-//   &:hover {
-//     color: $orange !important;
-//   }
-// }
-// h3 a {
-//   color: $text-color !important;
-//   &:visited {
-//     color: lighten($orange, 20%) !important;
-//   }
-//   &:hover {
-//     color: $orange !important;
-//   }
-// }
-// h2 a {
-//   color: $text-color !important;
-//   &:visited {
-//     color: lighten($orange, 20%) !important;
-//   }
-//   &:hover {
-//     color: $orange !important;
-//   }
-// }
-// h1 a {
-//   color: $text-color !important;
-//   &:visited {
-//     color: lighten($orange, 20%) !important;
-//   }
-//   &:hover {
-//     color: $orange !important;
-//   }
-// }
 // /**
 //  * Blockquotes
 //  */
@@ -282,8 +222,6 @@ h5 a {
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
-
-  }
 }
 
 
@@ -333,7 +271,6 @@ h5 a {
   padding: 2rem 1rem;
   font-family: 'Poiret One';
   background-color: #222222;
-  background-image: url("/img/tiles.jpg"), .5;
 
   &:visited {
     color: $brand-color;

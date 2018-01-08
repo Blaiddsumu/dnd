@@ -14,20 +14,14 @@ $text-color:       #48ffbc !default;
 $background-color: #525252 !default;
 $brand-color:      #48ffbc !default;
 
-$orange:           #e56100;
-
 $grey-color:       #d3d3d3 !default;
 $grey-color-light: #464646 !default;
 $grey-color-dark:  #333333 !default;
+$orange:           #FF5E00;
 
 @import url('https://fonts.googleapis.com/css?family=Poiret+One');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Orbitron');
-@import url('https://fonts.googleapis.com/css?family=VT323');
-@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
-@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed');
-@import url('https://fonts.googleapis.com/css?family=Rajdhani');
 
 // Width of the content area
 $content-width:    800px !default;
