@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: character
 title: To Paz
 permalink: /characters/to-paz/
 ---

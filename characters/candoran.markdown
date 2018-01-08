@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: character
 title: Candoran
 permalink: /characters/candoran/
 ---
