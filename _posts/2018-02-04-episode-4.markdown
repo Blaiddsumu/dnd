@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 3: The Maze of Maze Doom"
+title:  "Episode 4: The Maze of Maze Doom"
 date:   2018-02-04 08:00:00 -0700
 categories: episode
 ---
