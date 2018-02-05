@@ -9,5 +9,14 @@ In this episode, our third episode, we have some guests show up! Literally, some
 also, we accidentally from a cult apparently.
 
 [Episode 3 Gameplay](/audios/episode-3-gameplay.mp3)
+<audio controls>
+  <source src="/audios/episode-3-gameplay.mp3" type="audio/mpeg">
+Your browser does not support the audio element. Click the link above to listen to the file in your browser.
+</audio>
+
 
 [Episode 3 Outtakes](/audios/episode-3-outtakes.mp3)
+<audio controls>
+  <source src="/audios/episode-3-outtakes.mp3" type="audio/mpeg">
+Your browser does not support the audio element. Click the link above to listen to the file in your browser.
+</audio>

@@ -11,5 +11,14 @@ Be warned, for there are terrible, terrible cave sound effects in your future. i
 Also, some new intro music!
 
 [Episode 4 Gameplay](/audios/episode-4-gameplay.mp3)
+<audio controls>
+  <source src="/audios/episode-4-gameplay.mp3" type="audio/mpeg">
+Your browser does not support the audio element. Click the link above to listen to the file in your browser.
+</audio>
+
 
 [Episode 4 Outtakes](/audios/episode-4-outtakes.mp3)
+<audio controls>
+  <source src="/audios/episode-4-outtakes.mp3" type="audio/mpeg">
+Your browser does not support the audio element. Click the link above to listen to the file in your browser.
+</audio>
