@@ -13,12 +13,12 @@ Our wonderful adorable lil mascot is Dicon, he doesn't really have anything to d
 ### Now, for our main trio of characters: Paz, Fitz, and Candoran.
 
 ![To Paz](/img/paz.png)
-[To Paz](/characters/to-paz), commonly known as Paz and our resident green dragonborn, is the only son in a family of 32. He has 29 sisters. Read more about him [here](/characters/to-paz/).
+To Paz, commonly known as Paz and our resident green dragonborn, is the only son in a family of 32. He has 29 sisters. Read more about him [here](/characters/to-paz/).
 
 ![Fitz](/img/fitz.png)
-[Fitz](/characters/fitz), twin cousin to Paz, is a blue dragonborn who has a penchant for zapping others. Spencer took over playing her after a few episodes. Read more about her [here](/characters/fitz).
+Fitz, twin cousin to Paz, is a blue dragonborn who has a penchant for zapping others. Spencer took over playing her after a few episodes. Read more about her [here](/characters/fitz).
 
 ![Candoran](/img/candoran.png)
-[Candoran](/characters/candoran), the buffest of them all, was literally banned from his home village because he was too buff. that's it, no ulterior reason, he was just... too buff. Read more about him [here](/characters/candoran).
+Candoran, the buffest of them all, was literally banned from his home village because he was too buff. that's it, no ulterior reason, he was just... too buff. Read more about him [here](/characters/candoran).
 
 ---
