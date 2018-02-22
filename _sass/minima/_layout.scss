@@ -192,7 +192,7 @@
 .page-content {
   padding-top:    4rem;
   padding-bottom: 4rem;
-  background-color: #333333;
+  background-color: $grey-color-dark;
   overflow: auto;
   padding: 18px 50px;
   position: relative;
@@ -222,9 +222,10 @@
   color: #48ffbc;
   border: solid 5px #333333;
   background-color: #686868;
-  border: solid 5px #686868;
   border-radius: 5px;
   text-transform: uppercase;
+  padding: 5px;
+
 }
 
 .post-list {

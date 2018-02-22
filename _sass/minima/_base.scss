@@ -271,6 +271,10 @@ h5 a {
   padding: 2rem 1rem;
   font-family: 'Poiret One';
   background-color: #222222;
+  margin: 1rem;
+  border-radius: 5px;
+  border: 5px;
+  border-color: $grey-color-light;
 
   &:visited {
     color: $brand-color;
@@ -294,7 +298,6 @@ h5 a {
 .sidebar a {
   color: $text-color;
   text-decoration: none;
-
   &:visited {
     color: lighten($text-color, 20%);
   }
@@ -304,6 +307,11 @@ h5 a {
   }
 
 }
+.sidebar h5 {
+  &:hover {
+    text-shadow: 2px 4px rgba(0, 255, 255, 0.25), -2px 2px rgba(255, 0, 0, 0.4), -2px -2px rgba(0, 255, 0, 0.4);
+  }
+}
 
 /* Sidebar nav */
 .sidebar-nav {
@@ -312,15 +320,48 @@ h5 a {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  border: solid 5px #222222;
+  background-color: #686868;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin-top: 10px;
+  padding: 5px;
+  float: center;
+
+
+
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   color: $orange;
+  border: solid 5px #686868;
+  background-color: #333333;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
 }
 
+// a {
+// 		font-weight: 500;
+// 		text-decoration: none;
+// 		color: #4d4d4d;
+// 		display: block;
+// 		padding: 20px;
+// 		font-size: 20px;
+// 		font-weight: bold;
+// 		font-family: 'Poiret One';
+//
+//
+//   &:visited {
+//     color: lighten($text-color, 20%);
+//   }
+//
+//   &:hover {
+//   background: #473652;
+//   color: #b6d6e8;
+//   text-shadow: none !important;
+//
+//   }
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -355,3 +396,110 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
+
+// testin out some new things
+.grid_1 { width:80px; }
+.grid_2 { width:140px; }
+.grid_3 { width:220px; }
+.grid_4 { width:300px; }
+.grid_5 { width:380px; }
+.grid_6 { width:460px; }
+.grid_7 { width:500px; }
+.grid_8 { width:620px; }
+.grid_9 { width:700px; }
+.grid_10 { width:780px; }
+.grid_11 { width:860px; }
+.grid_12 { width:940px; }
+
+.column { /* 10px margin on BOTH sides, resulting in a 20px gutter between columns */
+	margin: 0 10px;
+	float: left;
+
+}
+.row { /* center the row on the page, clear the interior contents with overflow:hidden hack */
+	width: 960px;
+	margin: 0 auto;
+
+}
+.row .row {
+	margin: 0 -10px;
+	width: auto;
+}
+
+    .masthead {
+		margin-bottom: 40px;
+		}
+
+		.lightpanel {
+		color: #473652;
+		line-height: 18px;
+		text-shadow: 0 1px 1px rgba(255,255,255,0.9);
+		background: #b6d6e8;
+		border: 3px solid #443750;
+		font-weight: bold;
+		}
+
+		.lightpanel p {
+		padding-left: 20px;
+		padding-right: 20px;
+		}
+
+		.lightpanel h2, .lightpanel h3, .lightpanel h4, .lightpanel h5, .lightpanel h6 {
+		padding-left: 20px;
+		padding-right: 20px;
+		}
+
+		.bottompanel {
+		background: rgba(68, 55, 80, 0.5);
+		color: #b6d6e8;
+		text-transform: uppercase;
+		font-size: 9px;
+		font-weight: bold;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		padding-left: 20px;
+		padding-right: 20px;
+		border: 3px solid #443750;
+		font-family: 'Orbitron';
+		}
+
+		.bottompanel a {
+		color: #d9ebf4;
+		}
+
+    .roundedbottom {
+		-webkit-border-bottom-right-radius: 5px;
+		-webkit-border-bottom-left-radius: 5px;
+		-moz-border-radius-bottomright: 5px;
+		-moz-border-radius-bottomleft: 5px;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		}
+
+		.roundedtop {
+		-webkit-border-top-left-radius: 5px;
+		-webkit-border-top-right-radius: 5px;
+		-moz-border-radius-topleft: 5px;
+		-moz-border-radius-topright: 5px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		}
+
+		.nav a {
+		font-weight: 500;
+		text-decoration: none;
+		color: #4d4d4d;
+		display: block;
+		padding: 20px;
+		font-size: 20px;
+		font-weight: bold;
+		text-transform: uppercase;
+		font-family: 'Orbitron';
+		}
+
+		.nav a:hover {
+		background: #473652;
+		color: #b6d6e8;
+		text-shadow: none !important;
+		}
+// here the end of the new things
