@@ -6,7 +6,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-	
+  cursor: url('/img/cursortest.png'), auto;
 }
 
 h5 {
@@ -131,6 +131,7 @@ h5 {
 a {
   color: lighten($text-color, 25%);
   text-decoration: none;
+  cursor: url('/img/cursorpointer.png'), pointer;
 
 
   &:visited {
