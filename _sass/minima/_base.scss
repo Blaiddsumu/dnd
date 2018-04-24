@@ -6,6 +6,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+	
 }
 
 h5 {
@@ -279,6 +280,7 @@ h5 a {
   &:visited {
     color: $brand-color;
   }
+
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -320,7 +322,7 @@ h5 a {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
-  border: solid 5px #222222;
+  border: solid 5px $grey-color;
   background-color: #686868;
   border-radius: 5px;
   text-transform: uppercase;
