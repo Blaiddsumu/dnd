@@ -19,6 +19,21 @@ layout: default
     {{ content }}
   </div>
 
+
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <div class="prev">
+      <a class="prev" href="{{page.previous.url}}"> <img url='/img/backbutton.png' style="width:30px; height:30px"> {{page.previous.title}}</a>
+    {% endif %}
+      </div>
+      <div class="next">
+          {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} <img url='/img/nextbutton.png' style="width:30px; height:30px"></a>
+    {% endif %}
+      </div>
+  </div>
+
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}

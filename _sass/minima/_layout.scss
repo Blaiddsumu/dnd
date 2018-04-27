@@ -11,6 +11,7 @@
   color: #48ffbc;
   line-height: 1;
   border: solid 5px #333333;
+  border-radius: 5px;
   background-color: #686868;
   text-transform: uppercase;
 
@@ -202,6 +203,30 @@
   padding-bottom: 4rem;
 }
 
+.page-content a[href^="/audios/"] {
+  font-family: 'Poiret One';
+  color: #48ffbc;
+  border: solid 5px #686868;
+  background-color: #686868;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin: 5px;
+
+    &:hover {
+      color: $orange;
+      border: solid 5px #333333;
+      background-color: #333333;
+    }
+}
+
+.page-content audio {
+  margin-bottom: 10px;
+  margin-top: 5px;
+  border: solid 5px #48ffbc;
+  background-color: #686868;
+  border-radius: 5px;
+}
+
 @media (min-width: 48em) {
   .page-content {
     max-width: 38rem;
@@ -220,7 +245,7 @@
 .page-heading {
   @include relative-font-size(2);
   color: #48ffbc;
-  border: solid 5px #333333;
+  border: solid 5px #686868;
   background-color: #686868;
   border-radius: 5px;
   text-transform: uppercase;
@@ -302,4 +327,54 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+.audio {
+  margin-bottom: 5px
+}
+
+.PageNavigation {
+  display: inline-block;
+}
+
+.PageNavigation a {
+  font-family: 'Poiret One';
+  color: #48ffbc;
+  border: solid 5px #686868;
+  background-color: #686868;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin: 5px;
+}
+
+.PageNavigation img {
+  font-family: 'Poiret One';
+  color: #48ffbc;
+  border: solid 5px #686868;
+  background-color: #686868;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin: 5px;
+}
+
+.prev:hover a {
+  color: $orange;
+  border: solid 5px #333333;
+  background-color: #333333;
+}
+.prev:hover img {
+  color: $orange;
+  border: solid 5px #333333;
+  background-color: #333333;
+}
+
+.next:hover a {
+  color: $orange;
+  border: solid 5px #333333;
+  background-color: #333333;
+}
+.next:hover img {
+  color: $orange;
+  border: solid 5px #333333;
+  background-color: #333333;
 }
