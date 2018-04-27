@@ -214,16 +214,17 @@
 
     &:hover {
       color: $orange;
-      border: solid 5px #333333;
-      background-color: #333333;
+      border: solid 5px #222;
+      background-color: #222;
     }
 }
 
 .page-content audio {
+  color: #686868;
   margin-bottom: 10px;
   margin-top: 5px;
   border: solid 5px #48ffbc;
-  background-color: #686868;
+  background-color: #48ffbc;
   border-radius: 5px;
 }
 
@@ -329,14 +330,6 @@
   }
 }
 
-.audio {
-  margin-bottom: 5px
-}
-
-.PageNavigation {
-  display: inline-block;
-}
-
 .PageNavigation a {
   font-family: 'Poiret One';
   color: #48ffbc;
@@ -355,26 +348,27 @@
   border-radius: 5px;
   text-transform: uppercase;
   margin: 5px;
+  outline: none;
 }
 
 .prev:hover a {
   color: $orange;
-  border: solid 5px #333333;
-  background-color: #333333;
+  border: solid 5px #222;
+  background-color: #222;
 }
 .prev:hover img {
   color: $orange;
-  border: solid 5px #333333;
-  background-color: #333333;
+  border: solid 5px #222;
+  background-color: #222;
 }
 
 .next:hover a {
   color: $orange;
-  border: solid 5px #333333;
-  background-color: #333333;
+  border: solid 5px #222;
+  background-color: #222;
 }
 .next:hover img {
   color: $orange;
-  border: solid 5px #333333;
-  background-color: #333333;
+  border: solid 5px #222;
+  background-color: #222;
 }

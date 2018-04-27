@@ -263,6 +263,7 @@ h5 a {
   }
 }
 
+
 /*
  * Sidebar
  *
@@ -313,8 +314,10 @@ h5 a {
 
 }
 .sidebar h5 {
+  text-shadow: 1px 1px rgb(34, 34, 34), -1px 1px rgb(34, 34, 34), 1px -1px rgb(34, 34, 34), -1px -1px rgb(34, 34, 34);
   &:hover {
     text-shadow: 2px 4px rgba(0, 255, 255, 0.25), -2px 2px rgba(255, 0, 0, 0.4), -2px -2px rgba(0, 255, 0, 0.4);
+    color: $orange;
   }
 }
 
@@ -400,4 +403,5 @@ a.sidebar-nav-item:focus {
     margin-left: 22rem;
     margin-right: 4rem;
   }
+
 }
