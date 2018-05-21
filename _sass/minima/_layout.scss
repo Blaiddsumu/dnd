@@ -15,7 +15,6 @@
   background-color: #686868;
   text-transform: uppercase;
 
-
 }
 
 .site-title {
@@ -226,7 +225,23 @@
   border: solid 5px #48ffbc;
   background-color: #48ffbc;
   border-radius: 5px;
+  width: 90%;
 }
+
+@media (max-width: 48em){
+    .nexta span {
+        display: none;
+      }
+    .nexta:after {
+        content: 'Next';
+      }
+      .preva span {
+          display: none;
+        }
+      .preva:after {
+          content: 'Previous';
+        }
+  }
 
 @media (min-width: 48em) {
   .page-content {
